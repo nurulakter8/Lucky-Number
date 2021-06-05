@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "a0abcdefghijklmonp",
     "public": "public",
     "ignore": [
       "firebase.json",
